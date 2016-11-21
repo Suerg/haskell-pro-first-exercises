@@ -1,0 +1,6 @@
+1.  Prelude> let area x = 3.14 * (x * x)
+2.  Prelude> let double x = x * 2
+    or
+    Prelude> let double = (*) 2
+  
+  
