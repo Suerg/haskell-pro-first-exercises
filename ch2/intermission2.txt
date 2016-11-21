@@ -1,0 +1,15 @@
+1.
+  a) 8 + 7 * 9 -> 8 + (7 * 9) -> 8 + 63 -> 71
+  b) (8 + 7) * 9 -> 15 * 9 -> 135
+  -- so yes the parentheses do change the value
+  -- since * is higher precedence than +
+
+2.
+  no the parentheses don't change the value of the
+  function since they simply raise the precedence 
+  of *, which is already higher than +.
+
+3.
+  yes the parentheses change the value of the function.
+  as they make (+) 2 9 have higher precedence than (/) x
+  or not.
