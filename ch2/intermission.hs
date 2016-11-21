@@ -1,2 +1,2 @@
 circleArea :: Floating a => a -> a
-circleArea = (*) pi
+circleArea = (*) pi . flip (^) 2
