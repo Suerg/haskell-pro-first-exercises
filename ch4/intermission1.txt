@@ -1,0 +1,8 @@
+1. Mood
+2. Blah or Woot
+3. changeMood :: Mood -> Mood
+4.  
+    changeMood Woot = Woot
+    changeMood    _ = Blah
+5.
+
